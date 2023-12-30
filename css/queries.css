@@ -1,0 +1,11 @@
+@media (max-width: 28em) {
+  html {
+    font-size: 52.5%;
+  }
+
+  body {
+    background: url(../images/pattern-background-mobile.svg) no-repeat
+      hsl(225, 100%, 94%);
+    background-size: contain;
+  }
+}
